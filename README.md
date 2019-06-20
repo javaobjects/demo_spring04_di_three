@@ -16,7 +16,7 @@
 ![](images/6.png)
 
 + 新建或导入配置文件
-
+![](images/7.png)
 **beans.xml**
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -32,3 +32,5 @@
        http://www.springframework.org/schema/context/spring-context.xsd">
 </beans>
 ```
+3. 新建test/MyController  test/MyService test/MyDao
+![](images/8.png)
