@@ -10,7 +10,7 @@ public class MyController {
 	public MyService getService() {
 		return service;
 	}
-
+ 
 
 
 	public void setService(MyService service) {
